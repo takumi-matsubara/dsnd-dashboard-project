@@ -39,7 +39,6 @@ class Employee(QueryBase):
             employee_id
             FROM employee
             """
-        # TODO 返り値
 
     # Define a method called `username`
     # that receives an `id` argument

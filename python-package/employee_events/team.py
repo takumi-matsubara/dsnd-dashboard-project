@@ -41,7 +41,7 @@ class Team(QueryBase):
     # This method should return
     # a list of tuples from an sql execution
     #### YOUR CODE HERE
-    # TODO 返り値
+
     @query
     def username(self, id):
 
