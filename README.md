@@ -1,3 +1,5 @@
+# Important Note
+**Main** branch is for project submission. All other branches are for development purposes only.
 
 # Software Engineering for Data Scientists 
 
